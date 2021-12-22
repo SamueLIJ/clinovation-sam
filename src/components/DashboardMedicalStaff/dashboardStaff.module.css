@@ -1,0 +1,48 @@
+.Wrapper{
+  width: 100vw;
+  height: 100vh;
+  padding: 20px;
+  font-family: "Mulish", sans-serif;
+  position: absolute;
+  background-color: white;
+}
+  .cardstyle {
+    display: flex;
+    padding-top: 30px;
+  }
+  .kartu {
+    margin-right: 50px;
+    height: 150px;
+    background-color: #f7f7f7;
+  }
+  .kartu2 {
+    margin-right: 50px;
+    height: 450px;
+    background-color: #f7f7f7;
+    width: 30rem;
+  }
+  .iconDashboard {
+    height: 32px;
+    width: 32px;
+    margin-bottom: 13px;
+  }
+  .iconDashboard2 {
+    height: 65px;
+    width: 65px;
+    margin-bottom: 1px;
+  }
+  .cardtext {
+    font-size: 14px;
+    font-weight: 100;
+  }
+  .title {
+    font-weight: 500;
+    font-size: 30px;
+  }
+  .DateSchedule {
+    text-align: center;
+    padding-top: 10px;
+  }
+  .infoJadwal {
+    margin: 10px;
+  }
